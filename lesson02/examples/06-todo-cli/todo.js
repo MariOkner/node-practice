@@ -43,7 +43,6 @@ switch (action) {
   case "list":
     invokeAction({ action });
     break;
-
   default:
     break;
 }
